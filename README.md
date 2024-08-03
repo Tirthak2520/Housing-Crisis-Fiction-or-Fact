@@ -1,4 +1,4 @@
-# Housing Crisis Fact or Fiction?
+# Housing Crisis Fact or Fiction? - Data Analysis
 ## Project Summary
 
 * In order to close the gap between perception and fact, I oversaw a thorough investigation of the Canadian housing market as the principal investigator for the "Housing Crisis in Canada: Fact or Fiction?" project. 
